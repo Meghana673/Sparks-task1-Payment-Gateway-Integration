@@ -1,5 +1,5 @@
 # Sparks-task1-Payment-Gateway-Integration
-Sparks foundation web development internship  projectt:Payment Gateway Integration
+Sparks foundation web development internship  project:Payment Gateway Integration
 
 Simple website where Payment gateway is inegrated
 
